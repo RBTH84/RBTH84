@@ -2,11 +2,11 @@
 
 ---
 
-🇫🇷 Après 19 ans dans le management international, je suis revenu à ce qui m'a toujours animé : comprendre comment les systèmes fonctionnent — et comment ils peuvent être compromis, et comment pouvons nous les défendre efficacement.  
-Aujourd'hui apprenti **Assistant RSSI Industriel** chez Savencia, en Master Cybersécurité à la CSB School (Lyon). Expérience terrain en environnement **OT/ICS** (site nucléaire EDF Tricastin). Disponible en **CDD/CDI dès juin 2026**.
+🇫🇷 Après 19 ans dans le management international, je suis revenu à ce qui m'a toujours animé : comprendre comment les systèmes fonctionnent, comment ils peuvent être compromis, et comment pouvons nous les défendre efficacement.  
+Aujourd'hui apprenti **Assistant RSSI Industriel** chez Confidentiel, en Master Cybersécurité à la CSB School (Lyon). Expérience terrain en environnement **OT/ICS** (site nucléaire EDF Tricastin). Disponible en **CDD/CDI dès juin 2026**.
 
-🇬🇧 After 19 years in international management, I came back to what always drove me: understanding how systems work — and how they can be broken.  
-Currently apprentice **Industrial CISO Assistant** at Savencia, pursuing an MSc in Cybersecurity at CSB School (Lyon). Hands-on OT/ICS experience on a **nuclear site (EDF Tricastin)**. Available for a **permanent position from juin 2026**.
+🇬🇧 After 19 years in international management, I came back to what always drove me: understanding how systems work, how they can be broken, and how to  secure them efficiently.  
+Currently apprentice **Industrial CISO Assistant** at Confidentiel, pursuing an MSc in Cybersecurity at CSB School (Lyon). Hands-on OT/ICS experience on a **nuclear site (EDF Tricastin)**. Available for a **permanent position from juin 2026**.
 
 *Living my best second life — this time on the blue side.* ⚡
 
