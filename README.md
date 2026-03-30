@@ -42,6 +42,33 @@ OT/ICS           Protocoles industriels · Sécurité des systèmes de contrôle
 Networks         Analyse de trafic · Détection d'intrusion
 DFIR             Investigation numérique · Forensics · Malware Triage
 ```
+---
+
+## 🛠️ Tools & Technologies
+
+**Blue Team / SOC / DFIR**
+
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=flat&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+**OT / ICS**
+
+![Modbus](https://img.shields.io/badge/Modbus-FF6B35?style=flat&logoColor=white)
+![DNP3](https://img.shields.io/badge/DNP3-FF6B35?style=flat&logoColor=white)
+![OPC--UA](https://img.shields.io/badge/OPC--UA-FF6B35?style=flat&logoColor=white)
+
+**Sysadmin / Dev / OSINT**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=flat&logoColor=white)
+
+---
 
 ---
 
