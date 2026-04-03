@@ -23,7 +23,7 @@ Industry / Energy / Defense  ·  Critical Infrastructure
 
 ## 🏋️ Labs & Autodidactic Training
 
-### TryHackMe — [`RBTH`](https://tryhackme.com/p/RBTH)
+### TryHackMe — [`RBTH`](https://tryhackme.com/p/RBTH) Cliquez pour voir mon profil
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/RBTH.png)](https://tryhackme.com/p/RBTH)
 
