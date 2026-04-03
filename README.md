@@ -29,7 +29,7 @@ Industry / Energy / Defense  ·  Critical Infrastructure
 
 Preparing SAL-1 Certification
 
-### LetsDefend — [`V1nostachu`](https://app.letsdefend.io/user/V1nostachu)
+### LetsDefend — [`V1nostachu`](https://app.letsdefend.io/user/V1nostachu)  Cliquez pour voir mon profil 
 
 
 ---
@@ -38,7 +38,7 @@ Preparing SAL-1 Certification
 
 ```
 Blue Team        SIEM · Log Analysis · Threat Hunting · Incident Response
-OT/ICS           Protocoles industriels · Sécurité des systèmes de contrôle
+OT/ICS           Protocoles industriels · Sécurité des systèmes de contrôle  · Architecture Systèmes Industriels · IIoT
 Networks         Analyse de trafic · Détection d'intrusion
 DFIR             Investigation numérique · Forensics · Malware Triage
 ```
