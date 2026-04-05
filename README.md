@@ -1,57 +1,63 @@
-**`Cybersecurity | OT/ICS Security · SOC Analysis · DFIR`**
+# **`Cybersecurity | DFIR · OT/ICS Security · SOC Analysis`**
 
 ---
 
-🇫🇷 Après 19 ans dans le management international, je suis revenu à ce qui m'a toujours animé : comprendre comment les systèmes fonctionnent, comment ils peuvent être compromis, et comment pouvons nous les défendre efficacement.  
-Aujourd'hui apprenti **Assistant RSSI Industriel** chez Confidentiel, en Master Cybersécurité à la CSB School (Lyon). Expérience terrain en environnement **OT/ICS** (site nucléaire EDF Tricastin). Disponible en **CDD/CDI dès juin 2026**.
+🇫🇷 Après 19 ans dans le management international, je suis revenu à ce qui m'a toujours animé : comprendre comment les systèmes fonctionnent, comment ils peuvent être compromis, et comment les défendre efficacement.
 
-🇬🇧 After 19 years in international management, I came back to what always drove me: understanding how systems work, how they can be broken, and how to  secure them efficiently.  
-Currently apprentice **Industrial CISO Assistant** at Confidentiel, pursuing an MSc in Cybersecurity at CSB School (Lyon). Hands-on OT/ICS experience on a **nuclear site (EDF Tricastin)**. Available for a **permanent position from juin 2026**.
+Aujourd'hui apprenti **Assistant RSSI Industriel** chez [Confidentiel], en Master Cybersécurité à la CSB School (Lyon). Expérience terrain en environnement **OT/ICS** (site nucléaire EDF Tricastin). Disponible en **CDI dès septembre 2026**.
 
-*Living my best second life — this time on the blue side.* ⚡
+🇬🇧 After 19 years in international management, I came back to what always drove me: understanding how systems work, how they can be broken, and how to secure them efficiently.
+
+Currently apprentice **Industrial CISO Assistant** at [Confidential], pursuing an MSc in Cybersecurity at CSB School (Lyon). Hands-on OT/ICS experience on a **nuclear site (EDF Tricastin)**. Available for a **permanent position from September 2026**.
 
 ---
 
-## 🎯 Focus / Domaines cibles
+## 🎯 Focus
 
 ```
-SOC Analysis (N2)  ·  DFIR  ·  OT/ICS Security  ·  Threat Detection
+DFIR  ·  SOC Analysis  ·  OT/ICS Security  ·  Threat Detection
 Industry / Energy / Defense  ·  Critical Infrastructure
 ```
 
 ---
 
-## 🏋️ Labs & Autodidactic Training
+## 🏋️ Labs & Training
 
-### TryHackMe — [`RBTH`](https://tryhackme.com/p/RBTH) Cliquez pour voir mon profil
+### TryHackMe — [`RBTH`](https://tryhackme.com/p/RBTH)  <-- Cliquez pour lien
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/RBTH.png)](https://tryhackme.com/p/RBTH)
 
-Preparing SAL-1 Certification
+305 rooms · 52 badges · Paths SOC L1 & SOC L2 · Preparing SAL-1
 
-### LetsDefend — [`V1nostachu`](https://app.letsdefend.io/user/V1nostachu)  Cliquez pour voir mon profil 
+### LetsDefend — [`V1nostachu`](https://app.letsdefend.io/user/V1nostachu) <-- Cliquez pour lien
 
+Certified: SOC Analyst · DFIR · Malware Analyst · SIEM Engineer
 
 ---
 
 ## 🛠️ Skills
 
 ```
+DFIR             Memory forensics (Volatility 3) · Disk & log analysis · Artefact investigation
+                 Malware triage · Timeline reconstruction · Chain of custody
 Blue Team        SIEM · Log Analysis · Threat Hunting · Incident Response
-OT/ICS           Protocoles industriels · Sécurité des systèmes de contrôle  · Architecture Systèmes Industriels · IIoT
-Networks         Analyse de trafic · Détection d'intrusion
-DFIR             Investigation numérique · Forensics · Malware Triage
+OT/ICS           Industrial protocols · ICS architecture · IIoT security
+Networks         Traffic analysis · Intrusion detection
 ```
+
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Blue Team / SOC / DFIR**
+**DFIR / Blue Team / SOC**
 
+![Volatility](https://img.shields.io/badge/Volatility_3-2D2D2D?style=flat&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-2D2D2D?style=flat&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=flat&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 
 **OT / ICS**
 
@@ -70,26 +76,37 @@ DFIR             Investigation numérique · Forensics · Malware Triage
 
 ---
 
----
+## 📜 Certifications
 
-## 📜 Certifications (in progress)
-
-| Certification | Prévue |
+| Certification | Statut |
 |---|---|
-| SAL-1 | Mai 2026 |
-| CISSP | Juin 2026 |
-| CEH | Juillet 2026 |
+| EBIOS RM | ✅ Juil. 2025 |
+| ISO 27001 Lead Implementer | ✅ Janv. 2026 |
+| LetsDefend SOC Analyst | ✅ |
+| LetsDefend DFIR | ✅ |
+| LetsDefend Malware Analyst | ✅ |
+| LetsDefend SIEM Engineer | ✅ |
+| SAL-1 (BTL) | 🔄 Mai 2026 |
+| GCFA (GIAC Forensic Analyst) | 🔄 2026 |
 
 ---
 
-## 🎤 Conférences fréquentées
+## 🎤 Conferences
 
 `LeHack` · `Barbhack` · `SeCSea` · `GreHack` · `FIC` · `Cycom`
 
 ---
 
-## 🔗 Me retrouver
+## 🔗 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-v1nostachu-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/v1nostachu)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-RBTH-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/RBTH)
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-V1nostachu-00B4D8?style=flat)](https://app.letsdefend.io/user/v1nostachu)
+
+---
+
+## 📁 Repos
+
+> *Write-ups, forensic labs et scripts en cours de publication.*
+
+---
