@@ -86,8 +86,9 @@ Networks         Traffic analysis · Intrusion detection
 | LetsDefend DFIR | ✅ |
 | LetsDefend Malware Analyst | ✅ |
 | LetsDefend SIEM Engineer | ✅ |
-| SAL-1 (BTL) | 🔄 Mai 2026 |
-| GCFA (GIAC Forensic Analyst) | 🔄 2026 |
+| SAL-1 (THM) | 🔄 Mai 2026 |
+|  CEH (EC-council) | 🔄 Juillet 2026 |
+|  CHFI (EC-council Forensic Analyst) | 🔄 2026 |
 
 ---
 
