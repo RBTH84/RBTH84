@@ -134,7 +134,7 @@ Sysadmin         Linux (Debian · Arch · Gentoo · LFS) · Bash · Python · VM
 
 Forensic & incident response write-ups — documenting analysis methodology and reasoning, not just answers.
 
-→ [github.com/RBTH84/writeups](https://github.com/RBTH84)
+→ [github.com/RBTH84/Write-ups](https://github.com/RBTH84)
 
 ---
 
