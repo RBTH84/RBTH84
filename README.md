@@ -118,15 +118,23 @@ Sysadmin         Linux (Debian · Arch · Gentoo · LFS) · Bash · Python · VM
 
 ---
 
-## 🌐 Communautés
+## 📝 Mémoire de Master
 
-| Communauté | |
-|---|---|
-| [OSINT-FR](https://osintfr.com) | Membre — communauté francophone OSINT |
-| [HackInProvence](https://hackinprovence.fr) | Membre |
-| Exegol | Membre Discord |
-| HTB Lyon | Membre |
-| [RootMe](https://www.root-me.org/V1n0st4chu) | Membre — V1n0st4chu |
+**Convergence IT/OT — Focus sur l'IIoT et ses vulnérabilités**  
+CSB School Lyon · 2025-2026
+
+Analyse des risques liés à l'intégration des systèmes industriels dans les architectures connectées : surface d'attaque IIoT, protocoles (Modbus, DNP3, OPC-UA, MQTT), vecteurs de compromission et stratégies de détection en environnement OT/IT convergé.
+
+---
+
+## 🔬 Centres d'intérêt cyber
+
+```
+Radio-fréquences     SDR · protocoles RF · écoute passive
+Reverse engineering  Ghidra · analyse statique de binaires 
+Malware & AV         Analyse comportementale · évasion · détection
+IoT / Hardware       Sécurité des objets connectés · firmware · IIoT
+```
 
 ---
 
@@ -134,7 +142,16 @@ Sysadmin         Linux (Debian · Arch · Gentoo · LFS) · Bash · Python · VM
 
 Forensic & incident response write-ups — documenting analysis methodology and reasoning, not just answers.
 
-→ [https://github.com/RBTH84/Write-ups]
+→ [github.com/RBTH84/writeups](https://github.com/RBTH84)
+
+---
+
+## 🔗 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-v1nostachu-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/v1nostachu)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-RBTH-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/RBTH)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-V1nostachu-00B4D8?style=flat)](https://app.letsdefend.io/user/v1nostachu)
+
 
 ---
 
