@@ -99,7 +99,7 @@ IoT / Hardware       Sécurité des objets connectés · firmware · IIoT
 
 Forensic & incident response write-ups — documenting analysis methodology and reasoning, not just answers.
 
-→ [github.com/RBTH84/writeups](https://github.com/RBTH84)
+→ [github.com/RBTH84/Writeups]
 
 ---
 
