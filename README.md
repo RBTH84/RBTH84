@@ -112,9 +112,5 @@ Forensic & incident response write-ups — documenting analysis methodology and 
 
 ---
 
-## 🔗 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-v1nostachu-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/v1nostachu)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-RBTH-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/RBTH)
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-V1nostachu-00B4D8?style=flat)](https://app.letsdefend.io/user/V1nostachu)
 
