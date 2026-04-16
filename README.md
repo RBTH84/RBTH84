@@ -47,6 +47,7 @@ DFIR             Memory forensics (Volatility 3) · Memory acquisition (LiME) ·
                  Timeline reconstruction · Chain of custody
 Blue Team        SIEM · Log analysis · Threat hunting · Incident response
 OT/ICS           Industrial protocols · ICS architecture · IIoT security
+IIoT/RF          Bluetooth · WiFi · LoRaWAN · protocoles sans fil IIoT · surface d'attaque RF · SDR
 Networks         Traffic analysis · Intrusion detection · Nmap · Burp Suite · Gobuster
 OSINT            OSINT Framework · Shodan · Oscar Zulu tools · Passive recon · Member of OSINT-FR
 Offensive        Hashcat · password cracking · basic pentest methodology
@@ -83,6 +84,13 @@ Sysadmin         Linux (Debian · Arch · Gentoo · LFS) · Bash · Python · VM
 ![Modbus](https://img.shields.io/badge/Modbus-FF6B35?style=flat&logoColor=white)
 ![DNP3](https://img.shields.io/badge/DNP3-FF6B35?style=flat&logoColor=white)
 ![OPC--UA](https://img.shields.io/badge/OPC--UA-FF6B35?style=flat&logoColor=white)
+ 
+**IIoT / RF**
+ 
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)
+![WiFi](https://img.shields.io/badge/WiFi-0099CC?style=flat&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2D2D2D?style=flat&logoColor=white)
+![SDR](https://img.shields.io/badge/SDR-2D2D2D?style=flat&logoColor=white)
  
 **Sysadmin / Dev / OSINT**
  
@@ -133,10 +141,11 @@ Analyse des risques liés à l'intégration des systèmes industriels dans les a
 ## 🔬 Centres d'intérêt cyber
  
 ```
-Radio-fréquences     SDR · protocoles RF · écoute passive
+Radio-fréquences     SDR · protocoles RF · écoute passive · LoRaWAN · Bluetooth · WiFi
 Reverse engineering  Ghidra · analyse statique de binaires 
 Malware & AV         Analyse comportementale · évasion · détection
 IoT / Hardware       Sécurité des objets connectés · firmware · IIoT
+Blockchain / Web3    Solidity · sécurité des smart contracts · bug bounty Web3
 ```
  
 ---
